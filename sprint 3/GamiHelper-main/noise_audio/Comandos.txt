@@ -1,0 +1,15 @@
+Create audios:
+python add_noise.py ./noises ./audios/ ./results
+
+Generate:
+py generate_csv.py ./results && cat dataset.csv
+
+./dataset
+/content/drive/MyDrive/tdp/dataset2
+
+
+Upc/Ciclo 9/TDP/Proyecto 2
+UPC
+
+dataset3_7p_7r_p1
+dataset3_7p_7r_p2
